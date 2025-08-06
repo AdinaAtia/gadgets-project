@@ -1,0 +1,5 @@
+enSecondTasks=1721621393654, preservedLastTimeWeDidTenSecondTasks=1721621388591, millisElapsedSinceTenSecTask=5063, global_CheckForGlobalStateChangesFiles=false, preservedGlobal_CheckForGlobalStateChangesFiles=false
+20240722040953 - About to async run bztransmit -completesync processid=3544 with cmd: "C:\Program Files (x86)\Backblaze\x64\bztransmit64.exe" -completesync
+20240722040953 - After async run bztransmit -completesync, processid=3544 now pausing 1 sec, the dateTime in bztrack_bztransmit_lastrun.txt has been updated to: 20240722040953
+20240722040954 - Resuming after pause
+20240722040954 - bzserv processid=3544 sched is BzInfo_BackupSchedule_Continuously so spawning bztransmit, global_millisWhenLastWeRanContBzTransCompSync=1721621394779, spawning bztransmit, lastTimeWeDidTenSecondTasks=1721621394779, preservedLastTimeWeDidTenSecondTasks=1721621393654, millisElapsedSinceTenSecTask=1125, global_
