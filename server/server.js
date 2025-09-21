@@ -22,6 +22,8 @@ app.get("/", (req, res) => {
   res.send("This is the home page");
 });
 
+app.use("/api/reviews",  require("./routs/reviewRoutes"));
+
 app.use("/api/tasks", require("./routs/taskRouts"));
 app.use("/api/users", require("./routs/userRouts"));
 app.use("/api/auth", require("./routs/authRoute"));
