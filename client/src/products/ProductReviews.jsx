@@ -79,7 +79,7 @@ const ProductReviews = ({ productId }) => {
       color: "#333",      // צבע הטקסט לא משתנה
     }
   }} onClick={() => setOpen(true)}>
-        הוסף ביקורת
+        הוסף ביקורת!
       </Button>
 
       <Dialog open={open} onClose={() => setOpen(false)}>
